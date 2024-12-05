@@ -1,5 +1,3 @@
-# My first practice repository
+# Leetcode Solutions
 
 This repository contains my solutions for the tasks from leetcode.com with using Python3
-
-It has also some study projects associating with AI development
