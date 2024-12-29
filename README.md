@@ -5,3 +5,5 @@ This repository contains my solutions for the tasks from leetcode.com with using
 
 Another projects:
 #### [AI homeworks](https://github.com/marchinn/AIhomework.git)
+#### [Fundamentals](https://github.com/marchinn/Fundamentals.git)
+#### [Algorithms](https://github.com/marchinn/Algorithms.git)
